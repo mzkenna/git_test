@@ -1,0 +1,1 @@
+This is Kenna's first Git Project
